@@ -9,7 +9,10 @@ const AboutView = () => {
           <div className="col-lg-4 col-md-9 my-5">
             <img className="img-fluid rounded shadow" src='https://avatars.githubusercontent.com/u/100304368?v=4' alt="..." />
               <button className="btn btn-primary mt-4">
-              <a class="text-white" href="https://github.com/vitorvitorino"><i className="fab fa-github"></i> Github</a>
+              <a class="text-white" href="https://github.com/vitorvitorino"><i className="fab fa-github"></i></a>
+            </button>
+            <button className="btn btn-primary mt-4 mx-2">
+              <a className="text-white" href="https://www.linkedin.com/in/vitor-vitorino-b94833258/"><i className="fab fa-linkedin"></i></a>
             </button>
           </div>
           <div className="col-lg-6 col-md-3 my-5">
