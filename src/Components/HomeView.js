@@ -11,7 +11,7 @@ const HomeView = () => {
             Bem-vindo ao ReactFlix! 🎬
             <br></br>
 
-  <p>Desenvolvido durante a minha formação Fullstack, o ReactFlix é um pequeno  projetinho que é o resultado dos meus primeiros contatos com React. O site oferece uma experiência bem dinâmica e fluida, sem a necessidade de carregar páginas, e também bastante informação graças tanto ao React e também à completissíma API do TMDB.</p>
+  <p>Primeiramente, muito obrigado por estar aqui! <br></br>Desenvolvido durante a minha formação Fullstack, o ReactFlix é um pequeno  projetinho que é o resultado dos meus primeiros contatos com React. O site oferece uma experiência bem dinâmica e fluida, sem a necessidade de carregar páginas, e também bastante informação graças tanto ao React e também à completissíma API do TMDB.</p>
 
 <p>Aqui estão algumas das funcionalidades que eu achei mais interessantes quando estava desenvolvendo o projeto: </p>
 
