@@ -19,7 +19,7 @@ const HomeView = () => {
 
 <p>2. 🎞 Visualização Amigável: Esse projeto também é feito com Bootstrap5 e eu usei o template dos cards que se encontra na documentação. A ideia foi (além de me familiarizar mais com o BS5 com mais um projeto) poder usufruir das features e da praticidade que o Bootstrap oferece (incluindo o pensamento mobile-first).  Os cards exibem o poster, o nome e também um botão de 'Detalhes'. Ao clicar, a pagina mostra a nota média, quantidade de votos e um link direto para a página do filme no IMDB.</p>
 
-<p>Esse projeto certamente foi um pequeno desafio para mim, principalmente por ser meu primeiro contato real com React mas sinto que consegui me aproximar mais da linguagem e pude ver de perto o potencial que ela oferece (nunca imaginei que um site pudesse ser dinamico dessa maneira).</p>
+<p>Esse projeto certamente foi um pequeno desafio para mim, principalmente por ser meu primeiro contato real com React, mas sinto que consegui me aproximar mais da linguagem e pude ver de perto o potencial que ela oferece (nunca imaginei que um site pudesse ser dinamico dessa maneira).</p>
             </p>
           </div>
         </div>
