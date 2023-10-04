@@ -2,7 +2,7 @@ import './App.css';
 import Navbar from './Components/Navbar'
 import HomeView from "./Components/HomeView"
 import AboutView from "./Components/AboutView"
-import { Switch, Route, BrowserRouter } from 'react-router-dom'
+import { Switch, Route, HashRouter } from 'react-router-dom'
 import SearchView from './Components/SearchView';
 import { useState, useEffect, useRef } from 'react';
 import MovieView from './Components/MovieView'
@@ -27,7 +27,7 @@ function App() {
 
   return (
     <div className="App">
-      <BrowserRouter>
+      <HashRouter>
       <Navbar searchText={searchText} setSearchText={setSearchText} />
       <Switch>
         <Route path="/" exact>
@@ -44,7 +44,7 @@ function App() {
         <Route path="/movies/:id" component={ MovieView } />
         <Route component={ NotFoundView } />
       </Switch>
-      </BrowserRouter>
+      </HashRouter>
     </div>
 
   );
